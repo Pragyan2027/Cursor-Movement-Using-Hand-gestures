@@ -25,8 +25,8 @@ The core of the project involves:
 4.  **PyAutoGUI Integration:** The `pyautogui` library is used to programmatically move the system cursor and perform clicks based on the interpreted gestures.
 
 Here's an example of hand landmark detection in action:
-![Cursor Movement](./Screenshot 2025-10-24 202621.png)
-![Cursor Movement](./Screenshot 2025-10-24 202656.png)
+![Cursor Movement](screenshot1.png)
+![Cursor Movement](screenshot2.png)
 
 
 ## Installation
