@@ -66,8 +66,4 @@ Here's an example of hand landmark detection in action:
     * (Add more specific gesture descriptions if your project has them, e.g., "Raise your middle finger to right-click").
 4.  **Exit:** Press `q` (or `Esc`) to quit the application.
 
-## Configuration (Optional)
 
-You can modify parameters like cursor sensitivity, detection thresholds, and which fingers control movement/clicks by editing the `config.py` file (if you create one) or directly in the `main.py` script.
-
-## Project Structure
